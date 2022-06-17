@@ -1,4 +1,4 @@
-16.06.2022
+ZIUA 1 - 16.06.2022
 
 Toate comenzile sunt date dupa ce m-am mutat in directorul Downloads
 georgiana@georgiana:~$ cd Downloads
